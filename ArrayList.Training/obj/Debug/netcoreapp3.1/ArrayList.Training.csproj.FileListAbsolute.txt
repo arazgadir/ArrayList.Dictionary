@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\bin\Debug\netcoreapp3.1\ArrayList.Training.exe
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\bin\Debug\netcoreapp3.1\ArrayList.Training.deps.json
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\bin\Debug\netcoreapp3.1\ArrayList.Training.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\bin\Debug\netcoreapp3.1\ArrayList.Training.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\bin\Debug\netcoreapp3.1\ArrayList.Training.dll
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\bin\Debug\netcoreapp3.1\ArrayList.Training.pdb
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\obj\Debug\netcoreapp3.1\ArrayList.Training.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\obj\Debug\netcoreapp3.1\ArrayList.Training.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\obj\Debug\netcoreapp3.1\ArrayList.Training.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\obj\Debug\netcoreapp3.1\ArrayList.Training.dll
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\obj\Debug\netcoreapp3.1\ArrayList.Training.pdb
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\obj\Debug\netcoreapp3.1\ArrayList.Training.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp5\ArrayList.Training\obj\Debug\netcoreapp3.1\ArrayList.Training.csprojAssemblyReference.cache
